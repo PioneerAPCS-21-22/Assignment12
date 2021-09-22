@@ -24,7 +24,7 @@ x: 3
 y: 3
 Line: y = -2.0x + 9.0
 x-value: -5.5
-y(-5.5) = 20
+y(-5.5) = 20.0
 Enter the coordinates (x, y).
 x: -1
 y: 3
