@@ -24,14 +24,14 @@ x: 3
 y: 3
 Line: y = -2.0x + 1.0
 x-value: -5.5
-y(-5.5) = 12.5
+y(-5.5) = 12
 Enter the coordinates (x, y).
 x: -1
 y: 3
 Perpendicular line: y = 0.5x + 2.5
 ```
 
-**Note: the 2, 5, 3, 3, -5, -1, and 3 are input by the user.**
+**Note: the 2, 5, 3, 3, -5.5, -1, and 3 are input by the user.**
 
 ### Grading
 
