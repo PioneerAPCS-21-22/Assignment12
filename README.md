@@ -22,9 +22,9 @@ y: 5
 Enter the second point (x, y).
 x: 3
 y: 3
-Line: y = -2.0x + 1.0
+Line: y = -2.0x + 9.0
 x-value: -5.5
-y(-5.5) = 12
+y(-5.5) = 20
 Enter the coordinates (x, y).
 x: -1
 y: 3
