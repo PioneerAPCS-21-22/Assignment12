@@ -6,7 +6,7 @@ You will get user input to create a line and then create a line perpendicular th
 
 ## Specifications
 
-You must create a class called `Line` that has private instance variables, constructors, and methods. The equations for any lines should be created (as a `String`s) by a method in the `Line` class, but printed in `Main`. 
+You must create a class called `Line` that has private instance variables, constructors, and methods. The equations for any lines should be created (as a `String`) by a method in the `Line` class, but printed in `Main`. 
 
 When writing the perpendicular line method, it should create a `Line` object inside the method with the slope and y-intercept of the perpendicular line and then return the equation. 
 
