@@ -23,8 +23,8 @@ Enter the second point (x, y).
 x: 3
 y: 3
 Line: y = -2.0x + 1.0
-x-value: -5
-(-5.0, 11.0) is on the line.
+x-value: -5.5
+y(-5.5) = 12.5
 Enter the coordinates (x, y).
 x: -1
 y: 3
